@@ -1,0 +1,1 @@
+There is a code generator that creates examples for each student that we use as either examples or assessment questions.
